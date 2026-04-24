@@ -43,7 +43,7 @@ i recommend writing the code by yourself even if you are following the tutorial
 
 ### Setup
 ```bash
-git clone https://github.com/YOURUSERNAME/wyag.git
+git clone https://github.com/csvis7/wyag.git
 cd wyag
 chmod +x wyag
 ```
