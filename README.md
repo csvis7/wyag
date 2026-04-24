@@ -39,7 +39,7 @@ i recommend writing the code by yourself even if you are following the tutorial
 
 ### Requirements
 - Python 3.10+
-- Linux / WSL2 / macOS
+- Linux / WSL2(Windows){i did it with wsl} / macOS
 
 ### Setup
 ```bash
