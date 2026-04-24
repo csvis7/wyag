@@ -1,7 +1,8 @@
 # wyag - Write Yourself a Git!
 
-A Python implementation of Git from scratch, built by following the [Write Yourself a Git](https://wyag.thb.lt) tutorial.
 
+
+i recommend writing the code by yourself even if you are following the tutorial
 ## What is this?
 
 `wyag` is a simplified but **fully working** Git implementation in ~983 lines of pure Python. It implements all core Git commands and is **100% compatible** with real Git — objects created by wyag can be read by Git and vice versa.
